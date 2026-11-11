@@ -21,7 +21,7 @@ My Goals
 Languages & Tools
 
 * Java
-* HTML & CSS
-* Git & GitHub
+* C++ 
+* Linked & GitHub
 
 ✨ Learning today, building tomorrow.
